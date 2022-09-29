@@ -5,9 +5,10 @@ A cruise directory project that I created for an object-oriented programming cla
 ## Project Outline / Sepcifications
 To view the project outline I was given please follow this link: [Project Outline](https://github.com/petersurlina/College-Projects-Updated-/blob/7d8065d21421f97f28251d43e7cab2adace04930/Cruise%20Directory/Final%20Assignment.pdf)
 
-
 ## UML Diagram
 ![Final UML](https://user-images.githubusercontent.com/54562962/193146207-99474bc6-42fc-4413-afa8-89f99378f3c6.jpg)
+
+### UML Overview
 
 
 ## Getting Started
