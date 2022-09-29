@@ -4,7 +4,7 @@ This project was completed
 
 Cruise Directory/Final UML.jpg
 
-![alt text](https://github.com/[petersurlina]/[Cruise Directory]/Final UML.jpg?raw=true)
+![alt text](https://github.com/[petersurlina]/[CruiseDirectory]/FinalUML.jpg?raw=true)
 
 ## Getting Started
 
