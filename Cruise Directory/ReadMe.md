@@ -2,7 +2,7 @@
 
 This project was completed 
 
-![UML Diagram](./Cruise Directory/Final UML.jpg)
+![UML Diagram](../Cruise Directory/Final UML.jpg)
 
 
 ## Getting Started
