@@ -2,15 +2,7 @@
 
 This project was completed 
 
-Cruise Directory/Final UML.jpg
-
-Cruise Directory/Final UML.jpg
-
-<img
-  src="./Cruise Directory/Final UML.jpg"
-  alt="UML Diagram I created for this Project"
-  title="UML Diagram"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+![UML Diagram](./Cruise Directory/Final UML.jpg)
 
 
 ## Getting Started
