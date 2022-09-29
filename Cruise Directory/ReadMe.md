@@ -6,9 +6,9 @@ Cruise Directory/Final UML.jpg
 
 
 <img
-  src="https://github.com/petersurlina/Cruise Directory/Final UML.jpg"
-  alt="Alt text"
-  title="Optional title"
+  src="Cruise Directory/Final UML.jpg"
+  alt="UML Diagram I created for this Project"
+  title="UML Diagram"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 
