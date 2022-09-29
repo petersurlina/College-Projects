@@ -1,7 +1,4 @@
-
-Project requirements to run:
-*
-# Project Title
+# Cruise Directory
 
 One Paragraph of the project description
 
