@@ -1,4 +1,4 @@
-# Cruise Directory
+# Cruise Directory Project
 
 One Paragraph of the project description
 
