@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.effect.Blend?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="519.0" prefWidth="786.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.MenuController">
+   <children>
+      <ImageView disable="true" fitHeight="538.0" fitWidth="794.0" layoutX="-3.0" layoutY="-4.0" nodeOrientation="RIGHT_TO_LEFT" opacity="0.85" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../water.jpg" />
+         </image>
+      </ImageView>
+      <Label layoutX="199.0" prefHeight="77.0" prefWidth="429.0" text="Luxury Vacation Cruise Menu">
+         <font>
+            <Font name="Gabriola" size="44.0" />
+         </font>
+      </Label>
+      <Button fx:id="addShipButton" layoutX="108.0" layoutY="121.0" mnemonicParsing="false" onMouseClicked="#addShip" prefHeight="38.0" prefWidth="182.0" text="Add Ship" />
+      <Button fx:id="editShipButton" layoutX="108.0" layoutY="172.0" mnemonicParsing="false" onMouseClicked="#editShip" prefHeight="38.0" prefWidth="182.0" text="Edit Ship" />
+      <Button fx:id="addCruiseButton" layoutX="108.0" layoutY="223.0" mnemonicParsing="false" onMouseClicked="#addCruises" prefHeight="38.0" prefWidth="182.0" text="Add Cruise" />
+      <Button fx:id="editCruiseButton" layoutX="108.0" layoutY="272.0" mnemonicParsing="false" onMouseClicked="#editCruise" prefHeight="38.0" prefWidth="182.0" text="Edit Cruise" />
+      <Button fx:id="addPassengerButton" layoutX="108.0" layoutY="322.0" mnemonicParsing="false" onMouseClicked="#addPassengers" prefHeight="38.0" prefWidth="182.0" text="Add Passenger" />
+      <Button fx:id="exitButton" layoutX="303.0" layoutY="438.0" mnemonicParsing="false" onMouseClicked="#exitProgram" prefHeight="38.0" prefWidth="182.0" text="Exit System" />
+      <Button fx:id="editPassengerButton" layoutX="108.0" layoutY="373.0" mnemonicParsing="false" onMouseClicked="#editPassenger" prefHeight="38.0" prefWidth="182.0" text="Edit Passenger" />
+      <Button fx:id="printShipInformationButton" layoutX="490.0" layoutY="140.0" mnemonicParsing="false" onMouseClicked="#printShipInfo" prefHeight="38.0" prefWidth="182.0" text="Print Ship Information" />
+      <Button fx:id="printCruiseListButton" layoutX="490.0" layoutY="223.0" mnemonicParsing="false" onMouseClicked="#printCruises" prefHeight="38.0" prefWidth="182.0" text="Print Cruise List" />
+      <Button fx:id="printCruiseDetailsButton" layoutX="490.0" layoutY="272.0" mnemonicParsing="false" onMouseClicked="#printCruiseDetails" prefHeight="38.0" prefWidth="182.0" text="Print Cruise Details" />
+      <Button fx:id="printPassengersButton" layoutX="490.0" layoutY="347.0" mnemonicParsing="false" onMouseClicked="#printPassengers" prefHeight="38.0" prefWidth="182.0" text="Print Passenger List" />
+   </children>
+   <effect>
+      <Blend />
+   </effect>
+</AnchorPane>
