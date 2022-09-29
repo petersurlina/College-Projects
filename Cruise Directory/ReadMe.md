@@ -2,7 +2,7 @@
 
 This project was completed 
 
-![UML Diagram](../Cruise Directory/Final UML.jpg)
+![Final UML](https://user-images.githubusercontent.com/54562962/193146207-99474bc6-42fc-4413-afa8-89f99378f3c6.jpg)
 
 
 ## Getting Started
