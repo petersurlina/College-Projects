@@ -19,6 +19,7 @@ To view the project outline I was given please follow this link: [Project Outlin
 
 
 *ADD PICTURE OF HOW SCENES COMMUNICATE
+
 *ADD VIDEO LINK HERE: ()
 
 ## Running the project yourself
