@@ -2,6 +2,8 @@
 ------------------------------
 A cruise directory project that I created for an object-oriented programming class I took in my Junior year of college. This project utilizes Java alongside the JavaFX library to create a user interface for creation, removal, storing, and updating of a cruise line's potential fleet and passenger listings. To create the GUI I utilized SceneBuilder's drag-and-drop interface to  implement elements, images, and pass information to the user when requested.
 
+![Main Screen](https://user-images.githubusercontent.com/54562962/193212958-8ae15b19-4b2c-402f-a267-5ca2a079fbbc.jpg)
+
 ## Project Outline / Sepcifications
 To view the project outline I was given please follow this link: [Project Outline](https://github.com/petersurlina/College-Projects-Updated-/blob/7d8065d21421f97f28251d43e7cab2adace04930/Cruise%20Directory/Final%20Assignment.pdf)
 
