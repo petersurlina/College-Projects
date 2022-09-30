@@ -24,11 +24,9 @@ To view the project outline I was given please follow this link: [Project Outlin
 
 ## Test Run
 -----------------
+Quick test run of the program. I did not dive into the cruise and passenger portions of this project because I did not want to drag out the video. I believe there are still small bugs in there that can get in the way of the program as well. This video is meant to educate on the basic concepts and structure of the project and not every little detail.
 
-
-*ADD PICTURE OF HOW SCENES COMMUNICATE
-
-*ADD VIDEO LINK HERE: ()
+[Video Link](https://drive.google.com/file/d/19CPI_FBPzKOQFLkbEZDvfWZlHYQrBDGs/view?usp=sharing)
 
 ## Running the project yourself
 --------------------------------
