@@ -52,6 +52,9 @@ java --module-path "C:\JavaFx\javafx-sdk-17.0.1\lib" --add-modules javafx.contro
 - [] Fix bug when changing a person's name
 - [] Fix bug when attempting to change the name of a cruise
 - []
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
 ## License
 
 This project is licensed under the [GNU GENERAL PUBLIC LICENSE V3.0](https://github.com/petersurlina/College-Projects-Updated-/blob/460072414feff305900a4cc8caae881e1a55a802/LICENSE)
