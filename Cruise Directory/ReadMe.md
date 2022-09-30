@@ -11,12 +11,15 @@ To view the project outline I was given please follow this link: [Project Outlin
 ### UML Overview
 - In this project we have 3 object classes: ship, cruise, and passenger
 - We have controllers for each of the scenes that accept, validate, return, or modify the data (*10 Total Scenes)
-- Each scene directly communicates with the MenuController (Essentially our main menu) passing data back and forth as the user switches between scenes
-- -> As one scene collects the newly inputted / modified data it copies its own version of ArrayLists, storing each of the items, to complementary ArrayLists in the MenuController. This ensures data is up to date the second we leave the scene and head back to the main menu.
+- Each scene's controller directly communicates with the MenuController (Essentially our main menu) passing data back and forth as the user switches between scenes
+- -> As one scene's controller collects the newly inputted / modified data it copies its own version of ArrayLists, storing each of the objects indepedently, to complementary ArrayLists in the MenuController. This ensures data is up to date the second we leave the scene and head back to the main menu.
 
 ### Scene Communication
+- The code I wrote to communicate from the menu controller to the addShip controller. The same logic is used to all other scenes and controllers.
 ![Snip1](https://user-images.githubusercontent.com/54562962/193164659-cc10c5a2-51ad-4210-8ac6-93e407c0af4c.jpg)
+- Code snippet from inside the addShipController showing our initialization of ArrayLists for each object type. 
 ![Snip2](https://user-images.githubusercontent.com/54562962/193164670-b3f7323f-9bd3-4623-9529-c5953f893a2b.jpg)
+- Finally, the code to return to the starting menu while passing information back.
 ![Snip3](https://user-images.githubusercontent.com/54562962/193164690-78a7d221-8971-4d5d-9642-65dc79c23bb9.jpg)
 
 ## Test Run
