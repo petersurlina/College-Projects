@@ -61,4 +61,3 @@ java --module-path "C:\JavaFx\javafx-sdk-17.0.1\lib" --add-modules javafx.contro
 ## License
 
 This project is licensed under the [GNU GENERAL PUBLIC LICENSE V3.0](https://github.com/petersurlina/College-Projects-Updated-/blob/460072414feff305900a4cc8caae881e1a55a802/LICENSE)
-
