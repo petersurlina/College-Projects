@@ -37,7 +37,7 @@ Quick test run of the program. I did not dive into the cruise and passenger port
 ### Prerequisite: Please have an installation of Java Version 17.0.1+ on your current machine
 *The .jar file for this project will not run with a simple double click of the icon (Must be done utilizing the command line)
 
-**Please change into the directory you have the project stored in. In my example it is on my desktop**
+**Please change into the directory you have the project stored in. In my example it is on my desktop.**
 ```
 cd Desktop
 java --module-path "C:\JavaFx\javafx-sdk-17.0.1\lib" --add-modules javafx.controls,javafx.fxml -jar "Cruise Directory.jar"
