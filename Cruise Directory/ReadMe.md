@@ -10,7 +10,7 @@ To view the project outline I was given please follow this link: [Project Outlin
 
 ### UML Overview
 - In this project we have 3 object classes: ship, cruise, and passenger
-- We have controllers for each of the scenes that accept, validate, return, or modify the data (*9 Total Scenes)
+- We have controllers for each of the scenes that accept, validate, return, or modify the data (*10 Total Scenes)
 - Each scene directly communicates with the MenuController (Essentially our main menu) passing data back and forth as the user switches between scenes
 - -> As one scene collects the newly inputted / modified data it copies its own version of ArrayLists, storing each of the items, to complementary ArrayLists in the MenuController. This ensures data is up to date the second we leave the scene and head back to the main menu.
 
