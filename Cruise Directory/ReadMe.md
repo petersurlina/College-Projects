@@ -16,10 +16,14 @@ To view the project outline I was given please follow this link: [Project Outlin
 
 ### Scene Communication
 - The code I wrote to communicate from the menu controller to the addShip controller. The same logic is used to all other scenes and controllers.
+- 
 ![Snip1](https://user-images.githubusercontent.com/54562962/193164659-cc10c5a2-51ad-4210-8ac6-93e407c0af4c.jpg)
+
 - Code snippet from inside the addShipController showing our initialization of ArrayLists for each object type. 
+- 
 ![Snip2](https://user-images.githubusercontent.com/54562962/193164670-b3f7323f-9bd3-4623-9529-c5953f893a2b.jpg)
 - Finally, the code to return to the starting menu while passing information back.
+
 ![Snip3](https://user-images.githubusercontent.com/54562962/193164690-78a7d221-8971-4d5d-9642-65dc79c23bb9.jpg)
 
 ## Test Run
