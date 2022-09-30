@@ -34,18 +34,22 @@ Quick test run of the program. I did not dive into the cruise and passenger port
 
 ## Running the project yourself
 --------------------------------
-### Prerequisites
-
-
-
-
-
+### Prerequisite: Please have an installation of Java Version 17.0.1+ on your current machine
+*The .jar file for this project will not run with a simple double click of the icon (Must be done utilizing the command line)
+**Please change into the directory you have the project stored in. In my example it is on my desktop**
+```
+cd Desktop
+java --module-path "C:\JavaFx\javafx-sdk-17.0.1\lib" --add-modules javafx.controls,javafx.fxml -jar "Cruise Directory.jar"
+```
 
 
 ## What I learned
 
-
-
+## Potential Changes / Fixes to the current code
+- [] Improve graphical userface
+- [] Fix bug when changing a person's name
+- [] Fix bug when attempting to change the name of a cruise
+- []
 ## License
 
 This project is licensed under the [GNU GENERAL PUBLIC LICENSE V3.0](https://github.com/petersurlina/College-Projects-Updated-/blob/460072414feff305900a4cc8caae881e1a55a802/LICENSE)
