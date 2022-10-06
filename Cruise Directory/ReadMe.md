@@ -52,7 +52,7 @@ java --module-path "C:\JavaFx\javafx-sdk-17.0.1\lib" --add-modules javafx.contro
 - Deeper level of understanding of the JavaFX framework and SceneBuilder Program
 - How to communication between scene objects with tha JavaFX framework
 - GUI design concepts and how to link Front-End elements with Back-End logic
-- Much greater knowledge on the utilization of ArrayLists as a whole
+- Developed knowledge on the utilization of ArrayLists as a whole
 
 ## Potential Changes / Fixes to the current code
 - [ ] Improve graphical userface
